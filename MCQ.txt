@@ -1,0 +1,5 @@
+① Meaning of description, player = Player.new
+F: Create a new instance of Player class and assign to variable player
+
+② Difference between uppercase and lowercase players
+A:  player is the class name, and Player is the one which is substituted an instance of player class 
